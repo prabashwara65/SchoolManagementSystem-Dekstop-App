@@ -45,21 +45,21 @@ Here are some screenshots showcasing the Student Management System:
   <tr>
     <td>
       <h3>Loading Screen</h3>
-      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/loadingScreen.png" alt="Loading Screen" width="500" height="300">
+      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/loadingScreen.png" alt="Loading Screen" width="500" height="400">
     </td>
     <td>
       <h3>Authentication Interface</h3>
-      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/Auth.png" alt="Authentication Interface" width="500" height="300">
+      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/Auth.png" alt="Authentication Interface" width="500" height="400">
     </td>
   </tr>
   <tr>
     <td>
       <h3>Choose Student or Teacher Interface</h3>
-      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/ChooseInterface.png" alt="Choose Interface" width="500" height="300">
+      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/ChooseInterface.png" alt="Choose Interface" width="500" height="400">
     </td>
     <td>
       <h3>Student CRUD Interface</h3>
-      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/StudentCrud.png" alt="Student CRUD Interface" width="500" height="300">
+      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/StudentCrud.png" alt="Student CRUD Interface" width="500" height="400">
     </td>
   </tr>
 </table>
