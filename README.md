@@ -30,6 +30,8 @@ Here are some screenshots showcasing the Student Management System:
 
 1. **Loading Screen**
    ![Loading Screen](https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/loadingScreen.png)
+<img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/loadingScreen.png" alt="Image Description" width="300" height="200">
+
    
 2. **Authentication Interface**
    ![Authentication Interface](https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/Auth.png)
