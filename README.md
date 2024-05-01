@@ -76,8 +76,8 @@ To set up the Student Management System on your local machine, follow these step
 4. Run the application from NetBeans IDE.
 
 ## Database Structure 
-<img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/database-structure.jpeg" alt="Student CRUD database structure " width="400"
-height="300">
+<img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/database-structure.jpeg" alt="Student CRUD database structure " width="800"
+height="300" align="center">
 
 ## Contribution
 
