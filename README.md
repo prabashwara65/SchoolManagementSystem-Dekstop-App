@@ -29,16 +29,16 @@ The Student Management System is a comprehensive Java application developed usin
 Here are some screenshots showcasing the Student Management System:
 
 1. **Loading Screen**
-   ![Loading Screen](loading_screen.png)
+   ![Loading Screen](https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/loadingScreen.png)
    
 2. **Authentication Interface**
-   ![Authentication Interface](authentication_interface.png)
+   ![Authentication Interface](https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/Auth.png)
    
-3. **Student CRUD Interface**
-   ![Student CRUD Interface](student_crud_interface.png)
+3. **Choose Student or Teacher Interface**
+   ![Student CRUD Interface](https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/ChooseInterface.png)
    
-4. **Teacher CRUD Interface**
-   ![Teacher CRUD Interface](teacher_crud_interface.png)
+4. **Student CRUD Interface**
+   ![Student CRUD Interface](https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/StudentCrud.png)
 
 ## Installation
 
