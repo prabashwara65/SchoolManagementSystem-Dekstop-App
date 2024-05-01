@@ -32,15 +32,6 @@ Here are some screenshots showcasing the Student Management System:
 
 ## Screenshots
 
-# School Management System
-
-## Screenshots
-
-
-# School Management System
-
-## Screenshots
-
 <table>
   <tr>
     <td>
