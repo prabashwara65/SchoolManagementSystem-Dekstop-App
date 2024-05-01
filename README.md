@@ -28,25 +28,29 @@ The Student Management System is a comprehensive Java application developed usin
 
 Here are some screenshots showcasing the Student Management System:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin: 10px;">
-        <h3>Loading Screen</h3>
-        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/loadingScreen.png" alt="Loading Screen" width="300" height="300">
-    </div>
-    <div style="margin: 10px;">
-        <h3>Authentication Interface</h3>
-        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/Auth.png" alt="Authentication Interface" width="300" height="300">
-    </div>
-    <div style="margin: 10px;">
-        <h3>Choose Student or Teacher Interface</h3>
-        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/ChooseInterface.png" alt="Choose Interface" width="300" height="300">
-    </div>
-    <div style="margin: 10px;">
-        <h3>Student CRUD Interface</h3>
-        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/StudentCrud.png" alt="Student CRUD Interface" width="300" height="300">
-    </div>
-</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
 
+    <div style="margin: 20px; padding: 20px; background-color: #f0f0f0; border-radius: 10px; text-align: center;">
+        <h3>Loading Screen</h3>
+        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/loadingScreen.png" alt="Loading Screen" style="width: 300px; height: 300px; border-radius: 10px;">
+    </div>
+
+    <div style="margin: 20px; padding: 20px; background-color: #f0f0f0; border-radius: 10px; text-align: center;">
+        <h3>Authentication Interface</h3>
+        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/Auth.png" alt="Authentication Interface" style="width: 300px; height: 300px; border-radius: 10px;">
+    </div>
+
+    <div style="margin: 20px; padding: 20px; background-color: #f0f0f0; border-radius: 10px; text-align: center;">
+        <h3>Choose Student or Teacher Interface</h3>
+        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/ChooseInterface.png" alt="Choose Interface" style="width: 300px; height: 300px; border-radius: 10px;">
+    </div>
+
+    <div style="margin: 20px; padding: 20px; background-color: #f0f0f0; border-radius: 10px; text-align: center;">
+        <h3>Student CRUD Interface</h3>
+        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/StudentCrud.png" alt="Student CRUD Interface" style="width: 300px; height: 300px; border-radius: 10px;">
+    </div>
+
+</div>
 ## Installation
 
 To set up the Student Management System on your local machine, follow these steps:
