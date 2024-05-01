@@ -37,28 +37,33 @@ Here are some screenshots showcasing the Student Management System:
 ## Screenshots
 
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="margin-right: 20px;">
-        <h3>Loading Screen</h3>
-        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/loadingScreen.png" alt="Loading Screen" width="300" height="300">
-    </div>
+# School Management System
 
-    <div style="margin-right: 20px;">
-        <h3>Authentication Interface</h3>
-        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/Auth.png" alt="Authentication Interface" width="300" height="300">
-    </div>
+## Screenshots
 
-    <div style="margin-right: 20px;">
-        <h3>Choose Student or Teacher Interface</h3>
-        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/ChooseInterface.png" alt="Choose Interface" width="300" height="300">
-    </div>
+<table>
+  <tr>
+    <td>
+      <h3>Loading Screen</h3>
+      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/loadingScreen.png" alt="Loading Screen" width="300" height="300">
+    </td>
+    <td>
+      <h3>Authentication Interface</h3>
+      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/Auth.png" alt="Authentication Interface" width="300" height="300">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Choose Student or Teacher Interface</h3>
+      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/ChooseInterface.png" alt="Choose Interface" width="300" height="300">
+    </td>
+    <td>
+      <h3>Student CRUD Interface</h3>
+      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/StudentCrud.png" alt="Student CRUD Interface" width="300" height="300">
+    </td>
+  </tr>
+</table>
 
-    <div>
-        <h3>Student CRUD Interface</h3>
-        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/StudentCrud.png" alt="Student CRUD Interface" width="300" height="300">
-    </div>
-
-</div>
 
 
 ## Installation
