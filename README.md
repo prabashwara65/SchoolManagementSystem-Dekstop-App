@@ -28,18 +28,24 @@ The Student Management System is a comprehensive Java application developed usin
 
 Here are some screenshots showcasing the Student Management System:
 
-1. **Loading Screen**
-<img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/loadingScreen.png" alt="Image Description" width="500" height="500" >
-
-   
-2. **Authentication Interface**
-   <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/Auth.png" alt="Image Description" width="500" height="500" >
-   
-4. **Choose Student or Teacher Interface**
-   <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/ChooseInterface.png" alt="Image Description" width="500" height="500" >
-   
-6. **Student CRUD Interface**
-   <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/StudentCrud.png" alt="Image Description" width="500" height="500" >
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="margin: 10px;">
+        <h3>Loading Screen</h3>
+        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/loadingScreen.png" alt="Loading Screen" width="300" height="300">
+    </div>
+    <div style="margin: 10px;">
+        <h3>Authentication Interface</h3>
+        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/Auth.png" alt="Authentication Interface" width="300" height="300">
+    </div>
+    <div style="margin: 10px;">
+        <h3>Choose Student or Teacher Interface</h3>
+        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/ChooseInterface.png" alt="Choose Interface" width="300" height="300">
+    </div>
+    <div style="margin: 10px;">
+        <h3>Student CRUD Interface</h3>
+        <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/StudentCrud.png" alt="Student CRUD Interface" width="300" height="300">
+    </div>
+</div>
 
 ## Installation
 
