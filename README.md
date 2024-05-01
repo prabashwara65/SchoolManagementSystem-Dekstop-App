@@ -37,7 +37,7 @@ Here are some screenshots showcasing the Student Management System:
 ## Screenshots
 
 
-
+<div style="display: flex; justify-content: space-between;">
     <div style="margin-right: 20px;">
         <h3>Loading Screen</h3>
         <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/loadingScreen.png" alt="Loading Screen" width="300" height="300">
