@@ -81,7 +81,7 @@ To set up the Student Management System on your local machine, follow these step
 
 # Admin database
 <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/admindatabase.png" alt="Admin CRUD database structure " width="1100"
-height="300" align="center">
+height="200" align="center">
 *in order to login , you must enter admin as username and admin as password*
 
 ## Contribution
