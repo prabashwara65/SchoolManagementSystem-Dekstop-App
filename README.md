@@ -45,11 +45,11 @@ Here are some screenshots showcasing the Student Management System:
   <tr>
     <td>
       <h3>Loading Screen</h3>
-      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/loadingScreen.png" alt="Loading Screen" width="300" height="300">
+      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/loadingScreen.png" alt="Loading Screen" width="500" height="500">
     </td>
     <td>
       <h3>Authentication Interface</h3>
-      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/Auth.png" alt="Authentication Interface" width="300" height="300">
+      <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/raw/main/Auth.png" alt="Authentication Interface" width="500" height="500">
     </td>
   </tr>
   <tr>
