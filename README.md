@@ -24,9 +24,6 @@ The Student Management System is a comprehensive Java application developed usin
   
 - **MySQL Database:** As the backend storage solution, MySQL provides a reliable and scalable database platform, ideal for managing large volumes of structured data efficiently.
 
-## Screenshots
-
-Here are some screenshots showcasing the Student Management System:
 
 # School Management System
 
