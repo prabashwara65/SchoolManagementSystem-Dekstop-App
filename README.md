@@ -33,15 +33,12 @@ Here are some screenshots showcasing the Student Management System:
 
    
 2. **Authentication Interface**
-   ![Authentication Interface](https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/Auth.png)
    <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/Auth.png" alt="Image Description" width="500" height="500" >
    
 4. **Choose Student or Teacher Interface**
-   ![Student CRUD Interface](https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/ChooseInterface.png)
    <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/ChooseInterface.png" alt="Image Description" width="500" height="500" >
    
 6. **Student CRUD Interface**
-   ![Student CRUD Interface](https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/StudentCrud.png)
    <img src="https://github.com/prabashwara65/SchoolManagementSystem-Dekstop-App/blob/main/StudentCrud.png" alt="Image Description" width="500" height="500" >
 
 ## Installation
