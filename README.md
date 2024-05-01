@@ -36,7 +36,7 @@ Here are some screenshots showcasing the Student Management System:
 
 ## Screenshots
 
-<div style="display: flex; justify-content: space-between;">
+
 
     <div style="margin-right: 20px;">
         <h3>Loading Screen</h3>
